@@ -1,0 +1,65 @@
+<!-- ============ CABECERA ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F766E&height=120&section=header&text=DanMen-Dev&fontSize=42&fontColor=E6EDF3&fontAlignY=55&desc=Fintech%20%C2%B7%20IA%20aplicada%20%C2%B7%20Automatizaci%C3%B3n&descSize=16&descAlignY=80&descAlign=50" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+---
+
+### 👋 Sobre mí
+
+Desarrollador enfocado en **productos fintech**: construyo desde la interfaz hasta el backend, e integro **IA** y **automatizaciones con n8n** para que los procesos financieros sean más rápidos, trazables y con menos trabajo manual.
+
+- 💳 **Fintech:** pagos, conciliación, reportes y dashboards financieros
+- 🤖 **IA aplicada:** agentes, extracción de datos de documentos, clasificación y RAG
+- 🔁 **Automatización:** flujos en n8n conectando APIs, bancos, CRMs y bases de datos
+- 🧱 **Full stack:** APIs, bases de datos y frontends listos para producción
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| [**NOMBRE_PROYECTO_1**](https://github.com/DanMen-Dev/REPO_1) | Ej.: Dashboard de flujo de caja con categorización automática de transacciones | `Next.js` `FastAPI` `PostgreSQL` |
+| [**NOMBRE_PROYECTO_2**](https://github.com/DanMen-Dev/REPO_2) | Ej.: Agente de IA que lee facturas y extractos y los registra en contabilidad | `Python` `LangChain` `n8n` |
+| [**NOMBRE_PROYECTO_3**](https://github.com/DanMen-Dev/REPO_3) | Ej.: Flujos n8n para conciliación bancaria y alertas de pagos | `n8n` `Webhooks` `Supabase` |
+
+---
+
+### 🛠️ Stack
+
+**Frontend y backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,fastapi&theme=dark" />
+
+**Datos e infraestructura**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,aws,vercel,git&theme=dark" />
+
+**IA y automatización**
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0F766E?style=for-the-badge&logoColor=white" />
+
+---
+
+### 📊 Actividad
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanMen-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&hide=contribs&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMen-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=6" />
+</p>
+
+---
+
+<p align="center">
+  <sub>💡 Abierto a colaborar en proyectos fintech, automatización de procesos financieros e IA aplicada.</sub>
+</p>
