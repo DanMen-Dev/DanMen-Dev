@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-mendoza-sanchez/"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dani23000@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
@@ -26,9 +26,9 @@ Desarrollador enfocado en **productos fintech**: construyo desde la interfaz has
 
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
-| [**NOMBRE_PROYECTO_1**](https://github.com/DanMen-Dev/REPO_1) | Ej.: Dashboard de flujo de caja con categorización automática de transacciones | `Next.js` `FastAPI` `PostgreSQL` |
-| [**NOMBRE_PROYECTO_2**](https://github.com/DanMen-Dev/REPO_2) | Ej.: Agente de IA que lee facturas y extractos y los registra en contabilidad | `Python` `LangChain` `n8n` |
-| [**NOMBRE_PROYECTO_3**](https://github.com/DanMen-Dev/REPO_3) | Ej.: Flujos n8n para conciliación bancaria y alertas de pagos | `n8n` `Webhooks` `Supabase` |
+| [**Radar**](https://github.com/DanMen-Dev/valencia-luz-core) | Monitorizacion de Cortes de Servicio Electrico en Venezuela | `Docker` `TypeScript` `PostgreSQL` |
+| [**AWS_Security_Alerts**](https://github.com/DanMen-Dev/aws-security-alerts ) | Sistema de Alertas de Seguridad para AWS | `Python` `AWS` `Terraform` |
+| [**Seller-Ops-Api**](https://github.com/DanMen-Dev/seller-ops-api) | Backend: Para sincronizar los datos de Amazon. | `Python` `JavaScript` `API Rest` |
 
 ---
 
